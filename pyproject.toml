@@ -1,0 +1,44 @@
+[project]
+name = "meridian-design-system"
+version = "1.0.0"
+description = "Meridian design system: tokens + components as plain CSS, packaged for FastAPI apps."
+readme = "README.md"
+authors = [
+    { name = "Sreeju Sreekumar", email = "sreejusreekumar@gmail.com" }
+]
+requires-python = ">=3.11"
+# Ships only data (CSS, token JSON, starter page). FastAPI/Starlette is imported
+# lazily by mount_meridian(), so the apps bring their own.
+dependencies = []
+
+[project.optional-dependencies]
+fastapi = ["fastapi>=0.100"]
+
+[dependency-groups]
+dev = [
+    "fastapi>=0.115",
+    "httpx>=0.27",
+    "pytest>=8.0",
+    "ruff>=0.5",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/meridian"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/meridian", "README.md", "CHANGELOG.md", "pyproject.toml"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

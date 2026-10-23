@@ -1,0 +1,1378 @@
+{
+ "color": {
+  "gray-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.051,
+     0.0549,
+     0.0627
+    ],
+    "hex": "#0d0e10"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "gray-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0784,
+     0.0824,
+     0.0902
+    ],
+    "hex": "#141517"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "gray-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1098,
+     0.1176,
+     0.1333
+    ],
+    "hex": "#1c1e22"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "gray-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1333,
+     0.1451,
+     0.1686
+    ],
+    "hex": "#22252b"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "gray-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1608,
+     0.1765,
+     0.2
+    ],
+    "hex": "#292d33"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "gray-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1961,
+     0.2118,
+     0.2392
+    ],
+    "hex": "#32363d"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "gray-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2471,
+     0.2667,
+     0.298
+    ],
+    "hex": "#3f444c"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "gray-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.3725,
+     0.3961,
+     0.4353
+    ],
+    "hex": "#5f656f"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "gray-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.4235,
+     0.451,
+     0.502
+    ],
+    "hex": "#6c7380"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "gray-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.4314,
+     0.4588,
+     0.5098
+    ],
+    "hex": "#6e7582"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "gray-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.6745,
+     0.6941,
+     0.7333
+    ],
+    "hex": "#acb1bb"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "gray-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9176,
+     0.9294,
+     0.9451
+    ],
+    "hex": "#eaedf1"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "indigo-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0275,
+     0.051,
+     0.1216
+    ],
+    "hex": "#070d1f"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "indigo-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0471,
+     0.0745,
+     0.1647
+    ],
+    "hex": "#0c132a"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "indigo-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0627,
+     0.1059,
+     0.251
+    ],
+    "hex": "#101b40"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "indigo-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0745,
+     0.1255,
+     0.3176
+    ],
+    "hex": "#132051"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "indigo-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0863,
+     0.149,
+     0.3804
+    ],
+    "hex": "#162661"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "indigo-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1098,
+     0.1804,
+     0.4431
+    ],
+    "hex": "#1c2e71"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "indigo-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.149,
+     0.2314,
+     0.5373
+    ],
+    "hex": "#263b89"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "indigo-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2667,
+     0.3843,
+     0.7647
+    ],
+    "hex": "#4462c3"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "indigo-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2588,
+     0.3882,
+     0.8667
+    ],
+    "hex": "#4263dd"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "indigo-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2745,
+     0.4078,
+     0.8863
+    ],
+    "hex": "#4668e2"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "indigo-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.6353,
+     0.7373,
+     0.9961
+    ],
+    "hex": "#a2bcfe"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "indigo-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.898,
+     0.9294,
+     0.9961
+    ],
+    "hex": "#e5edfe"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "green-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0157,
+     0.0706,
+     0.0353
+    ],
+    "hex": "#041209"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "green-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0235,
+     0.102,
+     0.0549
+    ],
+    "hex": "#061a0e"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "green-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0078,
+     0.1451,
+     0.0706
+    ],
+    "hex": "#022512"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "green-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.1804,
+     0.0863
+    ],
+    "hex": "#002e16"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "green-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.2157,
+     0.1059
+    ],
+    "hex": "#00371b"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "green-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.2549,
+     0.1333
+    ],
+    "hex": "#004122"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "green-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.3216,
+     0.1725
+    ],
+    "hex": "#00522c"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "green-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1098,
+     0.4941,
+     0.2941
+    ],
+    "hex": "#1c7e4b"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "green-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.4941,
+     0.2745
+    ],
+    "hex": "#007e46"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "green-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0196,
+     0.5137,
+     0.2902
+    ],
+    "hex": "#05834a"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "green-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.5294,
+     0.8196,
+     0.6314
+    ],
+    "hex": "#87d1a1"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "green-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.8431,
+     0.9647,
+     0.8784
+    ],
+    "hex": "#d7f6e0"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "amber-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0902,
+     0.0471,
+     0.0039
+    ],
+    "hex": "#170c01"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "amber-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1255,
+     0.0667,
+     0.0039
+    ],
+    "hex": "#201101"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "amber-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1765,
+     0.098,
+     0.0
+    ],
+    "hex": "#2d1900"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "amber-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2118,
+     0.1255,
+     0.0
+    ],
+    "hex": "#362000"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "amber-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.251,
+     0.149,
+     0.0
+    ],
+    "hex": "#402600"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "amber-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2941,
+     0.1804,
+     0.0
+    ],
+    "hex": "#4b2e00"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "amber-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.3686,
+     0.2314,
+     0.0039
+    ],
+    "hex": "#5e3b01"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "amber-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.5686,
+     0.3686,
+     0.0157
+    ],
+    "hex": "#915e04"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "amber-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9882,
+     0.6667,
+     0.1686
+    ],
+    "hex": "#fcaa2b"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "amber-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9961,
+     0.7216,
+     0.3451
+    ],
+    "hex": "#feb858"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "amber-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9725,
+     0.749,
+     0.4627
+    ],
+    "hex": "#f8bf76"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "amber-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     1.0,
+     0.9137,
+     0.8118
+    ],
+    "hex": "#ffe9cf"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "red-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1137,
+     0.0275,
+     0.0235
+    ],
+    "hex": "#1d0706"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "red-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1529,
+     0.0392,
+     0.0353
+    ],
+    "hex": "#270a09"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "red-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2314,
+     0.0392,
+     0.0392
+    ],
+    "hex": "#3b0a0a"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "red-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.2902,
+     0.0314,
+     0.0392
+    ],
+    "hex": "#4a080a"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "red-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.3451,
+     0.0235,
+     0.0471
+    ],
+    "hex": "#58060c"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "red-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.4039,
+     0.0392,
+     0.0627
+    ],
+    "hex": "#670a10"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "red-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.4941,
+     0.0784,
+     0.098
+    ],
+    "hex": "#7e1419"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "red-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.7137,
+     0.2157,
+     0.2118
+    ],
+    "hex": "#b63736"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "red-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.8314,
+     0.1843,
+     0.2039
+    ],
+    "hex": "#d42f34"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "red-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.8471,
+     0.2039,
+     0.2196
+    ],
+    "hex": "#d83438"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "red-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9961,
+     0.6078,
+     0.5765
+    ],
+    "hex": "#fe9b93"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "red-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.9961,
+     0.9059,
+     0.8941
+    ],
+    "hex": "#fee7e4"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "sky-1": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0118,
+     0.0627,
+     0.0941
+    ],
+    "hex": "#031018"
+   },
+   "$description": "Primitive. App background. Use through a semantic token, not directly in components."
+  },
+  "sky-2": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0196,
+     0.0902,
+     0.1294
+    ],
+    "hex": "#051721"
+   },
+   "$description": "Primitive. Subtle background. Use through a semantic token, not directly in components."
+  },
+  "sky-3": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.1294,
+     0.1961
+    ],
+    "hex": "#002132"
+   },
+   "$description": "Primitive. Element background. Use through a semantic token, not directly in components."
+  },
+  "sky-4": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.1608,
+     0.2353
+    ],
+    "hex": "#00293c"
+   },
+   "$description": "Primitive. Hovered element. Use through a semantic token, not directly in components."
+  },
+  "sky-5": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.1922,
+     0.2784
+    ],
+    "hex": "#003147"
+   },
+   "$description": "Primitive. Selected / pressed element. Use through a semantic token, not directly in components."
+  },
+  "sky-6": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.2275,
+     0.3294
+    ],
+    "hex": "#003a54"
+   },
+   "$description": "Primitive. Subtle border / divider. Use through a semantic token, not directly in components."
+  },
+  "sky-7": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0039,
+     0.2902,
+     0.4078
+    ],
+    "hex": "#014a68"
+   },
+   "$description": "Primitive. Element border. Use through a semantic token, not directly in components."
+  },
+  "sky-8": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0667,
+     0.451,
+     0.6235
+    ],
+    "hex": "#11739f"
+   },
+   "$description": "Primitive. Interactive border (3:1). Use through a semantic token, not directly in components."
+  },
+  "sky-9": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0078,
+     0.4588,
+     0.6392
+    ],
+    "hex": "#0275a3"
+   },
+   "$description": "Primitive. Solid fill. Use through a semantic token, not directly in components."
+  },
+  "sky-10": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.4745,
+     0.6627
+    ],
+    "hex": "#0079a9"
+   },
+   "$description": "Primitive. Hovered solid fill. Use through a semantic token, not directly in components."
+  },
+  "sky-11": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.5216,
+     0.7961,
+     0.9569
+    ],
+    "hex": "#85cbf4"
+   },
+   "$description": "Primitive. Low-contrast text (AA). Use through a semantic token, not directly in components."
+  },
+  "sky-12": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.8588,
+     0.9451,
+     0.9961
+    ],
+    "hex": "#dbf1fe"
+   },
+   "$description": "Primitive. High-contrast text. Use through a semantic token, not directly in components."
+  },
+  "canvas": {
+   "$type": "color",
+   "$value": "{color.gray-1}",
+   "$description": "App background behind panels and cards. Never put text-muted on it in dense tables; use surface."
+  },
+  "surface": {
+   "$type": "color",
+   "$value": "{color.gray-2}",
+   "$description": "Default panel, card, table and input background."
+  },
+  "surface-raised": {
+   "$type": "color",
+   "$value": "{color.gray-3}",
+   "$description": "Popovers, menus, dialogs, toasts. In dark mode elevation is shown by this lighter surface, not by shadow alone."
+  },
+  "surface-sunken": {
+   "$type": "color",
+   "$value": "{color.gray-1}",
+   "$description": "Wells, code blocks, table header row, segmented-control track."
+  },
+  "surface-hover": {
+   "$type": "color",
+   "$value": "{color.gray-4}",
+   "$description": "Hover background for rows, menu items and ghost buttons."
+  },
+  "surface-active": {
+   "$type": "color",
+   "$value": "{color.gray-5}",
+   "$description": "Pressed background for rows, menu items and ghost buttons."
+  },
+  "surface-selected": {
+   "$type": "color",
+   "$value": "{color.indigo-4}",
+   "$description": "Selected row, active nav item, selected menu item."
+  },
+  "border-subtle": {
+   "$type": "color",
+   "$value": "{color.gray-5}",
+   "$description": "Dividers between rows and sections. Decorative only, never the sole boundary of a control."
+  },
+  "border": {
+   "$type": "color",
+   "$value": "{color.gray-6}",
+   "$description": "Card and panel outlines."
+  },
+  "border-strong": {
+   "$type": "color",
+   "$value": "{color.gray-9}",
+   "$description": "Input, select, checkbox and secondary-button outlines. Holds 3:1 on surface and canvas."
+  },
+  "text": {
+   "$type": "color",
+   "$value": "{color.gray-12}",
+   "$description": "Primary text and headings on canvas, surface, surface-raised, surface-sunken."
+  },
+  "text-muted": {
+   "$type": "color",
+   "$value": "{color.gray-11}",
+   "$description": "Secondary text, descriptions, placeholders, table meta. 4.5:1 on every surface token."
+  },
+  "text-disabled": {
+   "$type": "color",
+   "$value": "{color.gray-8}",
+   "$description": "Disabled labels only (exempt from contrast rules). Pair with a not-allowed cursor."
+  },
+  "text-on-accent": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     1.0,
+     1.0,
+     1.0
+    ],
+    "hex": "#ffffff"
+   },
+   "$description": "Text and icons on accent, accent-hover, success-solid, danger-solid, info-solid."
+  },
+  "text-on-warning": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.1059,
+     0.1176,
+     0.1412
+    ],
+    "hex": "#1b1e24"
+   },
+   "$description": "Text and icons on warning-solid (amber is too light for white)."
+  },
+  "accent": {
+   "$type": "color",
+   "$value": "{color.indigo-9}",
+   "$description": "Primary buttons, checked controls, progress, links in UI chrome. One primary action per view."
+  },
+  "accent-hover": {
+   "$type": "color",
+   "$value": "{color.indigo-10}",
+   "$description": "Hover state of accent fills."
+  },
+  "accent-soft": {
+   "$type": "color",
+   "$value": "{color.indigo-3}",
+   "$description": "Tinted background for accent badges, info-like highlights and selected chips."
+  },
+  "accent-soft-hover": {
+   "$type": "color",
+   "$value": "{color.indigo-4}",
+   "$description": "Hover of accent-soft."
+  },
+  "accent-border": {
+   "$type": "color",
+   "$value": "{color.indigo-8}",
+   "$description": "Border of accent-tinted elements and hovered inputs."
+  },
+  "accent-text": {
+   "$type": "color",
+   "$value": "{color.indigo-11}",
+   "$description": "Links and accent text on surface, canvas and accent-soft."
+  },
+  "success-solid": {
+   "$type": "color",
+   "$value": "{color.green-9}",
+   "$description": "Solid success fill (badges, toasts, destructive buttons). Text on it: text-on-accent."
+  },
+  "success-solid-hover": {
+   "$type": "color",
+   "$value": "{color.green-10}",
+   "$description": "Hover of success-solid."
+  },
+  "success-soft": {
+   "$type": "color",
+   "$value": "{color.green-3}",
+   "$description": "Tinted success background for alerts and soft badges."
+  },
+  "success-border": {
+   "$type": "color",
+   "$value": "{color.green-8}",
+   "$description": "Border of success alerts; invalid-field border for danger."
+  },
+  "success-text": {
+   "$type": "color",
+   "$value": "{color.green-11}",
+   "$description": "Success text and icons on surface, canvas and success-soft."
+  },
+  "warning-solid": {
+   "$type": "color",
+   "$value": "{color.amber-9}",
+   "$description": "Solid warning fill (badges, toasts, destructive buttons). Text on it: text-on-warning."
+  },
+  "warning-solid-hover": {
+   "$type": "color",
+   "$value": "{color.amber-10}",
+   "$description": "Hover of warning-solid."
+  },
+  "warning-soft": {
+   "$type": "color",
+   "$value": "{color.amber-3}",
+   "$description": "Tinted warning background for alerts and soft badges."
+  },
+  "warning-border": {
+   "$type": "color",
+   "$value": "{color.amber-8}",
+   "$description": "Border of warning alerts; invalid-field border for danger."
+  },
+  "warning-text": {
+   "$type": "color",
+   "$value": "{color.amber-11}",
+   "$description": "Warning text and icons on surface, canvas and warning-soft."
+  },
+  "danger-solid": {
+   "$type": "color",
+   "$value": "{color.red-9}",
+   "$description": "Solid danger fill (badges, toasts, destructive buttons). Text on it: text-on-accent."
+  },
+  "danger-solid-hover": {
+   "$type": "color",
+   "$value": "{color.red-10}",
+   "$description": "Hover of danger-solid."
+  },
+  "danger-soft": {
+   "$type": "color",
+   "$value": "{color.red-3}",
+   "$description": "Tinted danger background for alerts and soft badges."
+  },
+  "danger-border": {
+   "$type": "color",
+   "$value": "{color.red-9}",
+   "$description": "Border of danger alerts; invalid-field border for danger."
+  },
+  "danger-text": {
+   "$type": "color",
+   "$value": "{color.red-11}",
+   "$description": "Danger text and icons on surface, canvas and danger-soft."
+  },
+  "info-solid": {
+   "$type": "color",
+   "$value": "{color.sky-9}",
+   "$description": "Solid info fill (badges, toasts, destructive buttons). Text on it: text-on-accent."
+  },
+  "info-solid-hover": {
+   "$type": "color",
+   "$value": "{color.sky-10}",
+   "$description": "Hover of info-solid."
+  },
+  "info-soft": {
+   "$type": "color",
+   "$value": "{color.sky-3}",
+   "$description": "Tinted info background for alerts and soft badges."
+  },
+  "info-border": {
+   "$type": "color",
+   "$value": "{color.sky-8}",
+   "$description": "Border of info alerts; invalid-field border for danger."
+  },
+  "info-text": {
+   "$type": "color",
+   "$value": "{color.sky-11}",
+   "$description": "Info text and icons on surface, canvas and info-soft."
+  },
+  "focus-ring": {
+   "$type": "color",
+   "$value": "{color.indigo-11}",
+   "$description": "2px solid outline at 2px offset on every focusable element. 3:1+ on every surface in both themes."
+  },
+  "overlay": {
+   "$type": "color",
+   "$value": {
+    "colorSpace": "srgb",
+    "components": [
+     0.0,
+     0.0,
+     0.0
+    ],
+    "alpha": 0.6
+   },
+   "$description": "Scrim behind dialogs and drawers."
+  },
+  "chart-1": {
+   "$type": "color",
+   "$value": "{color.indigo-9}",
+   "$description": "First data series. Order series chart-1 to chart-5; never encode good/bad with chart colours."
+  },
+  "chart-2": {
+   "$type": "color",
+   "$value": "{color.sky-11}",
+   "$description": "Second data series."
+  },
+  "chart-3": {
+   "$type": "color",
+   "$value": "{color.amber-9}",
+   "$description": "Third data series."
+  },
+  "chart-4": {
+   "$type": "color",
+   "$value": "{color.green-11}",
+   "$description": "Fourth data series."
+  },
+  "chart-5": {
+   "$type": "color",
+   "$value": "{color.gray-11}",
+   "$description": "Fifth series or 'Other' bucket."
+  }
+ },
+ "spacing": {
+  "space-1": {
+   "$type": "dimension",
+   "$value": {
+    "value": 4,
+    "unit": "px"
+   },
+   "$description": "Icon-to-label gap inside small controls."
+  },
+  "space-2": {
+   "$type": "dimension",
+   "$value": {
+    "value": 8,
+    "unit": "px"
+   },
+   "$description": "Gap between an icon and its label; between related inline items."
+  },
+  "space-3": {
+   "$type": "dimension",
+   "$value": {
+    "value": 12,
+    "unit": "px"
+   },
+   "$description": "Horizontal padding of md controls; gap between buttons."
+  },
+  "space-4": {
+   "$type": "dimension",
+   "$value": {
+    "value": 16,
+    "unit": "px"
+   },
+   "$description": "Card padding (compact), form-field gap, table cell horizontal padding."
+  },
+  "space-5": {
+   "$type": "dimension",
+   "$value": {
+    "value": 20,
+    "unit": "px"
+   },
+   "$description": "Default card padding."
+  },
+  "space-6": {
+   "$type": "dimension",
+   "$value": {
+    "value": 24,
+    "unit": "px"
+   },
+   "$description": "Gap between cards; dialog padding."
+  },
+  "space-8": {
+   "$type": "dimension",
+   "$value": {
+    "value": 32,
+    "unit": "px"
+   },
+   "$description": "Gap between page sections."
+  },
+  "space-10": {
+   "$type": "dimension",
+   "$value": {
+    "value": 40,
+    "unit": "px"
+   },
+   "$description": "Page gutter on desktop."
+  },
+  "space-12": {
+   "$type": "dimension",
+   "$value": {
+    "value": 48,
+    "unit": "px"
+   },
+   "$description": "Large section breaks; empty-state padding."
+  },
+  "space-16": {
+   "$type": "dimension",
+   "$value": {
+    "value": 64,
+    "unit": "px"
+   },
+   "$description": "Hero / onboarding spacing only."
+  }
+ },
+ "radius": {
+  "radius-xs": {
+   "$type": "dimension",
+   "$value": {
+    "value": 4,
+    "unit": "px"
+   },
+   "$description": "Checkboxes, keyboard hints, tiny tags."
+  },
+  "radius-sm": {
+   "$type": "dimension",
+   "$value": {
+    "value": 6,
+    "unit": "px"
+   },
+   "$description": "Badges, tooltips, menu items, table row highlight."
+  },
+  "radius-md": {
+   "$type": "dimension",
+   "$value": {
+    "value": 10,
+    "unit": "px"
+   },
+   "$description": "Buttons, inputs, selects, tabs (the default control radius)."
+  },
+  "radius-lg": {
+   "$type": "dimension",
+   "$value": {
+    "value": 12,
+    "unit": "px"
+   },
+   "$description": "Cards, panels, alerts, toasts."
+  },
+  "radius-xl": {
+   "$type": "dimension",
+   "$value": {
+    "value": 16,
+    "unit": "px"
+   },
+   "$description": "Dialogs, drawers, large empty-state panels."
+  },
+  "radius-full": {
+   "$type": "dimension",
+   "$value": {
+    "value": 9999,
+    "unit": "px"
+   },
+   "$description": "Avatars, switches, status dots. Not for action buttons."
+  }
+ },
+ "fontFamily": {
+  "sans": {
+   "$type": "fontFamily",
+   "$value": [
+    "Geist",
+    "ui-sans-serif",
+    "system-ui",
+    "sans-serif"
+   ]
+  },
+  "mono": {
+   "$type": "fontFamily",
+   "$value": [
+    "Geist Mono",
+    "ui-monospace",
+    "monospace"
+   ]
+  }
+ },
+ "duration": {
+  "fast": {
+   "$type": "duration",
+   "$value": {
+    "value": 120,
+    "unit": "ms"
+   }
+  },
+  "base": {
+   "$type": "duration",
+   "$value": {
+    "value": 180,
+    "unit": "ms"
+   }
+  },
+  "slow": {
+   "$type": "duration",
+   "$value": {
+    "value": 260,
+    "unit": "ms"
+   }
+  }
+ }
+}
